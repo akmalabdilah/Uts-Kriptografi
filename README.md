@@ -32,7 +32,7 @@
 <hr>
 
 ![Gambar 1](screenshoot/1.png)
-![Gambar 2](screenshoot/2.jpg)
+![Gambar 2](screenshoot/2.JPG)
 ![Gambar 3](screenshoot/3.png)
 
 <p>
