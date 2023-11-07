@@ -53,7 +53,7 @@
 Jawaban Kode dan Database
 </p>
 
-![Gambar 4](screenshoot/4.png)
+![Gambar 6](screenshoot/6.png)
 ![Gambar 5](screenshoot/5.png)
 
 
